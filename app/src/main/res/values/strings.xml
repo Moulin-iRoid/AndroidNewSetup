@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidNewSetup</string>
+
+    <!-- Api -->
+    <string name="something_went_wrong" translatable="false">Something went wrong</string>
+    <string name="no_data_found" translatable="false">No data found</string>
+    <string name="no_notification_found" translatable="false">No Notifications found</string>
+    <string name="custom_toast" translatable="false">Custom toast</string>
+    <string name="error_found" translatable="false">Error</string>
+    <string name="network_error" translatable="false">Network error</string>
+    <string name="offline" translatable="false">Offline</string>
+    <string name="online" translatable="false">Online</string>
+</resources>
